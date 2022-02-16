@@ -13,7 +13,14 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
+H = X*theta;
+sum = 0;
 
+for i = 1:m,
+  sum = sum + (H(i)-y(i))^2;
+end;
+
+J = (1/(2*m))*sum;
 
 
 
