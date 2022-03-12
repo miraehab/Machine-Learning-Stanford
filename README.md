@@ -4,7 +4,7 @@
 
 This repository contains my solutions to the programming assignments of the machine learning course using octave.
 
-Programming Assignments:
+<h3>Programming Assignments:</h3>
 
 1. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week2_Linear%20Regression">Week2: Linear Regression</a>
 2. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week3_Logistic%20Regression">Week3: Logistic Regression</a>
