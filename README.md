@@ -15,3 +15,6 @@ This repository contains my solutions to the programming assignments of the mach
 7. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week8_K-Means%20Clustering%20and%20PCA">Week8: K-Means Clustering and PCA</a>
 8. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week9_Anomaly%20Detection%20and%20Recommender%20Systems
 ">Week9: Anomaly Detection and Recommender Systems</a>
+
+![image](https://user-images.githubusercontent.com/74511706/160442729-ef9a54aa-c668-48a7-a3bb-d151b1ad6bcc.png)
+
