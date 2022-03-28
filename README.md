@@ -13,3 +13,5 @@ This repository contains my solutions to the programming assignments of the mach
 5. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week6_Regularized%20Linear%20Regression%20and%20BiasVariance">Week6: Regularized Linear Regression and BiasVariance</a>
 6. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week7_Support%20Vector%20Machines">Week7: Support Vector Machines</a>
 7. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week8_K-Means%20Clustering%20and%20PCA">Week8: K-Means Clustering and PCA</a>
+8. <a href="https://github.com/miraehab/Machine-Learning-Stanford/tree/main/Week9_Anomaly%20Detection%20and%20Recommender%20Systems
+">Week9: Anomaly Detection and Recommender Systems</a>
